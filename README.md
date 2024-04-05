@@ -54,7 +54,7 @@ cinema.html
     </head>
     <body bgcolor="yellow">
         <h1 align="center">
-            <font color="black"><b>PULIVENDULA</b></font>
+            <font color="black"><b>KADAPA</b></font>
         </h1>
         <h3 align="center">
             <font color="red"><b>Maruthi Theater</b></font>
@@ -80,7 +80,7 @@ shilparamam.html
     </head>
     <body bgcolor="orange">
         <h1 align="center">
-            <font color="red"><b>PULIVENDULA</b></font>
+            <font color="red"><b>KADAPA</b></font>
         </h1>
         <h3 align="center">
             <font color="voilet"><b>shilaparamam</b></font>
@@ -112,7 +112,7 @@ rani thopu.html
     </head>
     <body bgcolor="pink">
         <h1 align="center">
-            <font color="yellow"><b>PULIVENDULA</b></font>
+            <font color="yellow"><b>KADAPA</b></font>
         </h1>
         <h3 align="center">
             <font color="green"><b>Rani Thopu-The Park</b></font>
@@ -135,7 +135,7 @@ college.html
     </head>
     <body bgcolor="white">
         <h1 align="center">
-            <font color="blue"><b>PULIVENDULA</b></font>
+            <font color="blue"><b>KADAPA</b></font>
         </h1>
         <h3 align="center">
             <font color="red"><b>Loyola Polytechnic College</b></font>
@@ -181,6 +181,5 @@ In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (93
 ![alt text](<4.rani thopu.png>)
 ![alt text](5.college.png)
 ![alt text](6.statue.png)
-
 ## Result:
 image-maps has been created succesfully
