@@ -1,4 +1,5 @@
 # Ex04 Places Around Me
+## Date: 04-04-2024
 ## AIM:
 To develop a website to display details about the places around my house.
 
@@ -17,173 +18,169 @@ create neccessary webpages for the places on the map
 ### step 6:
 push to README.md and push to Github repository
 ## Code:
-index.html :
-
 ```
+map.html
+
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Places around me</title>
-    </head> 
+        <title>KADAPA</title>
+
+    </head>
     <body>
-        <img id="Image-Maps-Com-image-maps-2023-07-24-084406" src="https://app.image-maps.com/m/private/0/iq82kpfjes1dlnffrlu45qlpbt_maps.jpg" border="0" width="1200" height="811" orgWidth="1200" orgHeight="811" usemap="#image-maps-2023-07-24-084406" alt="" />
-        <map name="image-maps-2023-07-24-084406" id="ImageMapsCom-image-maps-2023-07-24-084406">
-            <area alt="" title="college" href="college.html" shape="rect" coords="253,98,460,215" style="outline:none;" target="_self" />
-            <area alt="" title="tabunhotel" href="tabunhotel.html" shape="rect" coords="402,248,602,319" style="outline:none;" target="_self" />
-            <area alt="" title="tempel" href="tempel.html" shape="rect" coords="931,175,1120,236" style="outline:none;" target="_self" />
-            <area alt="" title="conventionhall" href="conventionhall.html" shape="rect" coords="328,529,520,604" style="outline:none;" target="_self" />
-            <area alt="" title="home" href="home.html" shape="rect" coords="328,385,471,433" style="outline:none;" target="_self" />
-            <area shape="rect" coords="1198,809,1200,811" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
-        </map>
+        <h1 align="center">
+            <font color="RED"><b>KADAPA,KADAPA DISTRICT</b></font>
+        </h1>
+        <h3 align="center"><font color="blue"><b>P.REVANTH(212223040143)</b></font></h3>
+
+       <center><img src="map.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="Maruthi Theater" title="Maruthi Theater" href="cinema.html" coords="584,307,767,346" shape="rect">
+    <area target="" alt="shilparamam" title="shilparamam" href="shilparamam.html" coords="1325,56,1478,134" shape="rect">
+    <area target="" alt="Rani Thopu" title="Rani Thopu" href="rani thopu.html" coords="544,661,415,610" shape="rect">
+    <area target="" alt="Loyola Polytechnic College" title="Loyola Polytechnic College" href="college.html" coords="1161,507,1356,585" shape="rect">
+    <area target="" alt="Dr YS Rajasekhar Reddy Statue" title="Dr YS Rajasekhar Reddy Statue" href="statue.html" coords="174,633,375,677" shape="rect">
+</map>
+       </center> 
     </body>
 </html>
-```
-college.html:
 
-```
-<!DOCTYPE html>
+cinema.html
+
+<html>
+    <head>
+        <title>CINEPLEX</title>
+    </head>
+    <body bgcolor="yellow">
+        <h1 align="center">
+            <font color="black"><b>PULIVENDULA</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="red"><b>Maruthi Theater</b></font>
+        </h3>
+        <hr size="10" color="black">
+        <p align="justify">
+            <font face="Georgia" size="5">
+            <br>Its is one of the famous theater in Pulivendula and its surroundings.</br>
+            <br>This theater has two screens.</br>
+            <br>It is the first theater in Pulivendula.</br>
+            <br>It is bulit in 1990.</br>
+            <br>It is a v celluliod cinema theater in Pulivendula.</br></font>
+        </p>
+
+    </body>
+</html>
+
+shilparamam.html
+
+<html>
+    <head>
+        <title>shilparamam</title>
+    </head>
+    <body bgcolor="orange">
+        <h1 align="center">
+            <font color="red"><b>PULIVENDULA</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="voilet"><b>shilaparamam</b></font>
+        </h3>
+        <hr size="5" color="blue">
+        <p align="justify">
+            <font face="Georgia" size="3">
+            A prominent hub of fruit orchards in Kadapa district, Pulivendula has maintained its unique fabric of being a rural town, with an urban outlook. The advent of Shilparamam in the year 2009, has added a feather in the cap for this bustling town of Andhra Pradesh.
+            
+            <h2>Ticket Price:</h2>
+            <br>ADULTS = 30/-</br>
+            <br>ABOVE 5 YEARS BELOW 8 YEARS CHILDRENS = 15/-</br>
+            <br>BOATING = 30/-</br>
+            <br>CEMARA = 60/-</br>
+            <br>VIDEOGRAPHY = 120/-</br>
+            <h3>Timings</h3>
+            <br>MORNING = 9 A.M TO</br>
+            <br>EVINING = 8 P.M</br></font>
+        </p>
+
+    </body>
+</html>
+
+rani thopu.html
+
+<html>
+    <head>
+        <title>Rani Thopu</title>
+    </head>
+    <body bgcolor="pink">
+        <h1 align="center">
+            <font color="yellow"><b>PULIVENDULA</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="green"><b>Rani Thopu-The Park</b></font>
+        </h3>
+        <hr size="5" color="black">
+        <p align="justify">
+            <font face="Georgia" size="5">
+            Parks keep our environment clean and make us very happy. People visit the park for cycling, walking, and enjoying leisurely picnics. Some parks are designed smartly, keeping all age groups in mind, and even have benches so that people who get tired can sit.
+            Parks play a very important role in society. They help people to stay healthy and fit. walking on grass and staying around a lot of trees is very healthy. It also reduces stress and makes people happy. People meet their friends and spend quality time. Parks are a safe place for children where there are no vehicles and they can play there safely. Parks also make our society look beautiful and green. Trees are planted here and it is also good for the environment.</font>
+        </p>
+
+    </body>
+</html>
+
+college.html
+
 <html>
     <head>
         <title>college</title>
-    </head>  
-    <body>
-        <img src="C:\Users\admin\Downloads\college.jepg" alt="College Image" style="width:100%">
-        <br>
-        <br>
-        <h1>SRI VENKATESWARA COLLEGE OF ENGINEERING</h1>
-        <br>
-        Sri Venkateswara College of Engineering and Technology, established
-        in 1998 is affiliated to JNTUA, Anantapur and approved by AICTE, NBA.
-        SVCET offers B.Tech courses at the undergraduate level and offers MBA, MCA
-        and M.Tech courses in various disciplines at the postgraduate level.
-        Admission to the courses offered will be done based on the candidate’s
-        performance in the entrance examination. Some of the top recruiters that
-        recruit SVCET’s students include IBM, Cognizant, Infosys, Wipro, Polaris etc. 
-    </body>  
-</html>
-```
-convectionhall.html :
+    </head>
+    <body bgcolor="white">
+        <h1 align="center">
+            <font color="blue"><b>PULIVENDULA</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="red"><b>Loyola Polytechnic College</b></font>
+        </h3>
+        <hr size="5" color="cyan">
+        <p align="justify">
+            <font face="Georgia" size="5">
+            Loyola Polytechnic College, a prestigious higher education institution, was founded in Kadapa, Andhra Pradesh, in 1980. The institute offers Diploma programmes for students to further their studies. These programs are specially designed for Full Time mode and are approved by prominent national bodies such as AICTE. The institute offers a variety of courses such as after 10th Diploma in major streams including Engineering. Loyola Polytechnic College provides its students with top-notch education delivered by its skilled and experienced faculty in the fields of Electrical Engineering, Electronics & Communication Engineering, Computer Science Engineering, Mechanical Engineering, Mining Engineering, Civil Engineering. Most importantly, the 756 seats in these courses are provided at reasonable fees ranging between INR 72,000, to enable students to acquire knowledge and skills in their preferred area of interest. Loyola Polytechnic College also offers excellent infrastructure.</font>
+        </p>
 
-```
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>The Convection Hall</title> 
-    </head>  
-    <body>
-        <img src="C:\Users\admin\Downloads\convectionhall.jpeg" alt="Convention Hall Image" style="width:100%">
-        <br>
-        <br>
-        RLN Convection Hall:
-        <br>
-        <br>
-        <h1>THE CONVECTION HALL </h1>
-        <br>
-        This convection hall is more popular in our town.
-        Every big function will be do in that function hall only.
-        The function hall will be so nice so that every one will
-        do in that function hall. Firstly, the parking area is
-        comfortable, and this function hall has the facility of
-        two halls in one building, without disturbance; one is
-        for Muslim function, the other Hindu function and others.
-        This function hall has more comfortable place in that area.
-    </body>  
-</html>
-```
-home.html :
-```
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>HOME</title> 
-    </head>  
-    <body>
-        <br>
-        <br>
-        HOME:
-        <br>
-        <br>
-        <h1>SRI VENKATESWARA NILAYAM</h1>
-        <br>
-        My house name is Sri Venkateswara Nilayam. It was built in 1987. For that house 
-        have more history. I like that house so much. Besides, my house will be more trees,
-        it will be so beautiful weather, and in 50 meters the beach will be. The climate of my house will be so beautiful,
-        the surroundings of my house will be so beautiful.
-    </body>  
-</html>
-```
-tabunhotel.html :
-```
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Tabun Hotel</title> 
-    </head>  
-    <body>
-        <img src="C:\Users\admin\Downloads\tabunhotel.jpg" alt="Tabun Hotel Image" style="width:100%">
-        <br>
-        <br>
-        Tabun Hotel:
-        <br>
-        <br>
-        <h1>The TABUN HOTEL</h1>
-        <br>
-        The Tabun hotel is a multicuisine restaurant. This restaurant is more popular in our town; every
-        one will go to this restaurant only. Why? Because in this restaurant, the taste will be nice,
-        so that everyone will go to this restaurant. Beautiful Mandi biriyani experience. Multi-cuisine restaurant,
-        but best for Arabian cuisine. Mandi biriyani is a must-try for anyone visiting here. The Arabian mixed
-        Mandi beats them all as you get a variety of non-veg items with the biriyani. Half Mandi should be sufficient
-        for 3 people and the full, for easily 6-7 people. The ambiance was brilliant, staff is well-mannered and it
-        was a very different experience altogether in comparison to any other regular restaurant.
-    </body>  
-</html>
-```
-temple.html :
-```
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Temple</title> 
-    </head>  
-    <body>
-        <img src="C:\Users\admin\Downloads\temple.jpg" alt="Temple Image" style="width:100%">
-        <br>
-        <br>
-        Temple:
-        <br>
-        <br>
-        <h1>SRI RAMA TEMPLE</h1>
-        <br>
-        This Rama temple has more history and the 
-        temple is more powerful. To this temple will come more visitors.
-        This temple is more beautiful. Ayodhya is the birthplace of Lord Rama
-        and he is known as Purushottam which means the best of men or the Supreme Purusa (personality).
-        According to Swami Vivekananda, Shri Rama is "the embodiment of truth, of morality, the ideal son,
-        the ideal husband, and above all, the ideal king." Lord Rama was born in Treta Yuga and is also known
-        to be the oldest deity worshipped in human form. Various temples are dedicated to Lord Rama all over
-        India few of them are listed below.
-    </body>  
+    </body>
 </html>
 
-```
+statue.html
 
+<html>
+    <head>
+        <title>statue</title>
+    </head>
+    <body bgcolor="cyan">
+        <h1 align="center">
+            <font color="orange"><b>PULIVENDULA</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="blue"><b>Dr YS Rajasekhar Reddy Statue</b></font>
+        </h3>
+        <hr size="5" color="black">
+        <p align="justify">
+            <font face="Georgia" size="5">
+            Yeduguri Sandinti Rajasekhara Reddy (8 July 1949 - 2 September 2009), popularly known as YSR was an Indian politician. He served as the 14th chief minister of Andhra Pradesh from 2004 to 2009. Reddy was elected four times to the Lok Sabha from Kadapa and to the Andhra Pradesh Legislative Assembly for five terms from the Pulivendula, winning every election he contested.
+
+In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (930 mi) in 60 days across 11 districts of Andhra Pradesh as a part of his election campaign. He led the Congress party to victory in the 2004 and 2009 assembly elections. On 2 September 2009, a helicopter carrying Reddy went missing in the Nallamala Forest area which was later confirmed to have crashed with all five people including Reddy pronounced dead.</font>
+        </p>
+
+    </body>
+</html>
+```
 
 ## Output:
-index.html:
-![WhatsApp Image 2023-11-21 at 16 27 06_e3bb5d01](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/e67ea816-951e-40b1-bdf9-d90ce515138b)
-
-college.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/eb7fb4da-be42-4af7-aff2-62a55d92d63a)
-
-convectionhall.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/7bb42eb8-309e-4a72-b071-b78fc530df67)
-
-tabunhotel.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/1da529d0-685f-4960-aeaa-9ccfb537fd49)
-
-temple.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/87544148-9424-4094-b33b-f3e325cdce1a)
-
+![alt text](1.map.png)
+![alt text](2.cinema.png)
+![alt text](3.shilparamam.png)
+![alt text](<4.rani thopu.png>)
+![alt text](5.college.png)
+![alt text](6.statue.png)
 
 ## Result:
 image-maps has been created succesfully
