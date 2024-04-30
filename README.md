@@ -180,9 +180,9 @@ In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (93
 ![1 map](https://github.com/Revanth-2717/NearMe/assets/152462274/7e21307b-d745-485f-9d50-3f6fe19d03f4)
 ![2 cinema](https://github.com/Revanth-2717/NearMe/assets/152462274/50285af0-741c-4d77-b292-217a1c7f1bb8)
 ![3 shilparamam](https://github.com/Revanth-2717/NearMe/assets/152462274/0ad9c687-6f3c-48bc-826f-a17ee8062d1a)
-![4 contact](https://github.com/Revanth-2717/NearMe/assets/152462274/4d90059b-f8d4-4050-a457-8f971f7941d4)
 ![4 rani thopu](https://github.com/Revanth-2717/NearMe/assets/152462274/c2636d5b-fefb-409b-b555-09be8bb8221e)
 ![5 college](https://github.com/Revanth-2717/NearMe/assets/152462274/a175f496-3da6-418b-9293-e1d0daeada35)
+![6 statue](https://github.com/Revanth-2717/NearMe/assets/152462274/f11104f3-8ecb-448c-8caf-6b3323a71824)
 
 ## Result:
 image-maps has been created succesfully
