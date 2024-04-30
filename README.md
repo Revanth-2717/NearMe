@@ -63,7 +63,9 @@ cinema.html
         <p align="justify">
             <font face="Georgia" size="5">
             <br>Its is one of the famous theater in Pulivendula and its surroundings.</br>
-            <br>This theater has two screens.</br>
+            <br>This theater has two screens.</br>![1 map](https://github.com/Revanth-2717/NearMe/assets/152462274/e0117878-8652-4c26-bd05-860b6dd6bf7a)
+![2 cinema](https://github.com/Revanth-2717/NearMe/assets/152462274/4af90601-aa27-444b-ba37-ac06b05d35c9)
+
             <br>It is the first theater in Pulivendula.</br>
             <br>It is bulit in 1990.</br>
             <br>It is a v celluliod cinema theater in Pulivendula.</br></font>
@@ -175,11 +177,12 @@ In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (93
 ```
 
 ## Output:
-![alt text](1.map.png)
-![alt text](2.cinema.png)
-![alt text](3.shilparamam.png)
-![alt text](<4.rani thopu.png>)
-![alt text](5.college.png)
-![alt text](6.statue.png)
+![1 map](https://github.com/Revanth-2717/NearMe/assets/152462274/7e21307b-d745-485f-9d50-3f6fe19d03f4)
+![2 cinema](https://github.com/Revanth-2717/NearMe/assets/152462274/50285af0-741c-4d77-b292-217a1c7f1bb8)
+![3 shilparamam](https://github.com/Revanth-2717/NearMe/assets/152462274/0ad9c687-6f3c-48bc-826f-a17ee8062d1a)
+![4 contact](https://github.com/Revanth-2717/NearMe/assets/152462274/4d90059b-f8d4-4050-a457-8f971f7941d4)
+![4 rani thopu](https://github.com/Revanth-2717/NearMe/assets/152462274/c2636d5b-fefb-409b-b555-09be8bb8221e)
+![5 college](https://github.com/Revanth-2717/NearMe/assets/152462274/a175f496-3da6-418b-9293-e1d0daeada35)
+
 ## Result:
 image-maps has been created succesfully
