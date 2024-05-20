@@ -62,13 +62,11 @@ cinema.html
         <hr size="10" color="black">
         <p align="justify">
             <font face="Georgia" size="5">
-            <br>Its is one of the famous theater in Pulivendula and its surroundings.</br>
-            <br>This theater has two screens.</br>![1 map](https://github.com/Revanth-2717/NearMe/assets/152462274/e0117878-8652-4c26-bd05-860b6dd6bf7a)
-![2 cinema](https://github.com/Revanth-2717/NearMe/assets/152462274/4af90601-aa27-444b-ba37-ac06b05d35c9)
-
-            <br>It is the first theater in Pulivendula.</br>
+            <br>Its is one of the famous theater in KADAPA and its surroundings.</br>
+            <br>This theater has two screens.</br>
+            <br>It is the first theater in KADAPA.</br>
             <br>It is bulit in 1990.</br>
-            <br>It is a v celluliod cinema theater in Pulivendula.</br></font>
+            <br>It is a v celluliod cinema theater in KADAPA.</br></font>
         </p>
 
     </body>
@@ -159,7 +157,7 @@ statue.html
     </head>
     <body bgcolor="cyan">
         <h1 align="center">
-            <font color="orange"><b>PULIVENDULA</b></font>
+            <font color="orange"><b>KADAPA</b></font>
         </h1>
         <h3 align="center">
             <font color="blue"><b>Dr YS Rajasekhar Reddy Statue</b></font>
@@ -175,14 +173,13 @@ In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (93
     </body>
 </html>
 ```
-
 ## Output:
-![1 map](https://github.com/Revanth-2717/NearMe/assets/152462274/7e21307b-d745-485f-9d50-3f6fe19d03f4)
-![2 cinema](https://github.com/Revanth-2717/NearMe/assets/152462274/50285af0-741c-4d77-b292-217a1c7f1bb8)
-![3 shilparamam](https://github.com/Revanth-2717/NearMe/assets/152462274/0ad9c687-6f3c-48bc-826f-a17ee8062d1a)
-![4 rani thopu](https://github.com/Revanth-2717/NearMe/assets/152462274/c2636d5b-fefb-409b-b555-09be8bb8221e)
-![5 college](https://github.com/Revanth-2717/NearMe/assets/152462274/a175f496-3da6-418b-9293-e1d0daeada35)
-![6 statue](https://github.com/Revanth-2717/NearMe/assets/152462274/f11104f3-8ecb-448c-8caf-6b3323a71824)
+![map](https://github.com/Revanth-2717/NearMe/assets/152462274/dddb4346-7ed3-479f-8de0-f7b5f1e66250)
+![theatre](https://github.com/Revanth-2717/NearMe/assets/152462274/38a3ebe1-044e-4ea4-a6af-8c865edccac3)
+![shilparamam](https://github.com/Revanth-2717/NearMe/assets/152462274/89d4d35f-a377-42f3-9eb2-ed64c77d51be)
+![park](https://github.com/Revanth-2717/NearMe/assets/152462274/23859a5d-ef37-4f7e-b821-c17bad67f1e0)
+![college](https://github.com/Revanth-2717/NearMe/assets/152462274/1bff3b9a-534a-4ba4-ae0c-60ae93bd6ee2)
+![statue](https://github.com/Revanth-2717/NearMe/assets/152462274/024ec641-b649-4db5-b2e8-f8f1732ebb32)
 
 ## Result:
 image-maps has been created succesfully
